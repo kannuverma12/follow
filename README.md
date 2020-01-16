@@ -1,2 +1,4 @@
-# follow
-Music App follow feature
+# Music App Follow Feature
+Sprint Boot application for Music App follow feature
+
+
